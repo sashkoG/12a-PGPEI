@@ -1,0 +1,10 @@
+C:\SashoG 12a\Zadacha 1\bin\Debug\Zadacha 1.exe.config
+C:\SashoG 12a\Zadacha 1\bin\Debug\Zadacha 1.exe
+C:\SashoG 12a\Zadacha 1\bin\Debug\Zadacha 1.pdb
+C:\SashoG 12a\Zadacha 1\obj\Debug\Zadacha 1.csproj.AssemblyReference.cache
+C:\SashoG 12a\Zadacha 1\obj\Debug\Zadacha_1.Form1.resources
+C:\SashoG 12a\Zadacha 1\obj\Debug\Zadacha_1.Properties.Resources.resources
+C:\SashoG 12a\Zadacha 1\obj\Debug\Zadacha 1.csproj.GenerateResource.cache
+C:\SashoG 12a\Zadacha 1\obj\Debug\Zadacha 1.csproj.CoreCompileInputs.cache
+C:\SashoG 12a\Zadacha 1\obj\Debug\Zadacha 1.exe
+C:\SashoG 12a\Zadacha 1\obj\Debug\Zadacha 1.pdb
