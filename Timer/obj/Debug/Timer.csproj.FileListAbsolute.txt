@@ -1,0 +1,10 @@
+C:\SashoG 12a\Timer\bin\Debug\Timer.exe.config
+C:\SashoG 12a\Timer\bin\Debug\Timer.exe
+C:\SashoG 12a\Timer\bin\Debug\Timer.pdb
+C:\SashoG 12a\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+C:\SashoG 12a\Timer\obj\Debug\Timer.Form1.resources
+C:\SashoG 12a\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\SashoG 12a\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\SashoG 12a\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\SashoG 12a\Timer\obj\Debug\Timer.exe
+C:\SashoG 12a\Timer\obj\Debug\Timer.pdb
