@@ -1,0 +1,10 @@
+C:\SashoG 12a\ZadachkaHyperlink\bin\Debug\ZadachkaHyperlink.exe.config
+C:\SashoG 12a\ZadachkaHyperlink\bin\Debug\ZadachkaHyperlink.exe
+C:\SashoG 12a\ZadachkaHyperlink\bin\Debug\ZadachkaHyperlink.pdb
+C:\SashoG 12a\ZadachkaHyperlink\obj\Debug\ZadachkaHyperlink.csproj.AssemblyReference.cache
+C:\SashoG 12a\ZadachkaHyperlink\obj\Debug\ZadachkaHyperlink.Form1.resources
+C:\SashoG 12a\ZadachkaHyperlink\obj\Debug\ZadachkaHyperlink.Properties.Resources.resources
+C:\SashoG 12a\ZadachkaHyperlink\obj\Debug\ZadachkaHyperlink.csproj.GenerateResource.cache
+C:\SashoG 12a\ZadachkaHyperlink\obj\Debug\ZadachkaHyperlink.csproj.CoreCompileInputs.cache
+C:\SashoG 12a\ZadachkaHyperlink\obj\Debug\ZadachkaHyperlink.exe
+C:\SashoG 12a\ZadachkaHyperlink\obj\Debug\ZadachkaHyperlink.pdb
