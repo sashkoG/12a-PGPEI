@@ -1,0 +1,11 @@
+C:\SashoG 12a\Formichka2\bin\Debug\Formichka2.exe.config
+C:\SashoG 12a\Formichka2\bin\Debug\Formichka2.exe
+C:\SashoG 12a\Formichka2\bin\Debug\Formichka2.pdb
+C:\SashoG 12a\Formichka2\obj\Debug\Formichka2.csproj.AssemblyReference.cache
+C:\SashoG 12a\Formichka2\obj\Debug\Formichka2.Form1.resources
+C:\SashoG 12a\Formichka2\obj\Debug\Formichka2.Properties.Resources.resources
+C:\SashoG 12a\Formichka2\obj\Debug\Formichka2.SecondForm.resources
+C:\SashoG 12a\Formichka2\obj\Debug\Formichka2.csproj.GenerateResource.cache
+C:\SashoG 12a\Formichka2\obj\Debug\Formichka2.csproj.CoreCompileInputs.cache
+C:\SashoG 12a\Formichka2\obj\Debug\Formichka2.exe
+C:\SashoG 12a\Formichka2\obj\Debug\Formichka2.pdb
